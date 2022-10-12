@@ -14,7 +14,7 @@
 </div>
  
  <br>
- 
+
 <div> 
 <h3> ✨ Contato e Redes sociais 😉 ✨ </h3>
     <a href="https://www.linkedin.com/in/fernandagouveia-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -23,6 +23,6 @@
 
   
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FernandaGouveia/FernandaGouveia/blob/output/github-contribution-grid-snake.svg)
 
 </div>
